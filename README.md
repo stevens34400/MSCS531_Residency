@@ -33,7 +33,7 @@ To set up the project:
 
 1. Clone the Repository:
      ```
-     git clone <repository-url>
+     git clone https://github.com/gem5/gem5
      cd gem5
      ```
 2. Build Gem5:
